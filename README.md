@@ -9,4 +9,4 @@ In this experiment, an A/B test is performed to measure the effect of and additi
 
 This result means that, even though number of enrolled students has been decreased significantly, number of payments did not. This was the exact aim of the experiment to show, therefore I recommend to launch the change at this point.
 
-The whole report is in the repository.
+__The whole report is in the repository.__
